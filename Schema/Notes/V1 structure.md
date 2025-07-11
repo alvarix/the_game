@@ -1,0 +1,34 @@
+
+- Games
+	- README
+	- Global Avatar status
+	- Game instances (eg 1.1 Vue Mastery)
+		- Sessions
+		- Degrees
+		- Migrations
+- Schema 
+	  - https://github.com/alvarix/the_game.git
+	- README
+	- Init scripts
+		- Human
+			- Prompts to override defaults 
+		- AI
+	- Migrations
+	- Schemas
+		- Diffs
+		- Variables
+			- Cast
+				- Avatar
+					- Properties (current projects)
+				- Other Individuals
+				- Environment
+				- Custom 
+					- eg: 
+						- Tech Stack
+						- Aspirational Tech Stack
+			- Goals
+				- Current Avatar status
+					- Desired Status
+				- Projects - experiments on existing or new properties
+			- Defaults
+

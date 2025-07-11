@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "80ee5bcca1e3661b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43c9d57cff1beed",
+        "type": "tabs",
+        "dimension": 36.815693430656935,
+        "children": [
+          {
+            "id": "2a3f8c7725bd2c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schema/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "e7dc06e059dfa427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schema/Notes/V1 structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V1 structure"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "424d14c966428370",
+        "type": "tabs",
+        "dimension": 36.815693430656935,
+        "children": [
+          {
+            "id": "9ea18971d7d76669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schema/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "09fcc3e6ed5a83a7",
+        "type": "tabs",
+        "dimension": 26.368613138686136,
+        "children": [
+          {
+            "id": "4cc078096a069959",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98b457782e2e8092",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb605580973a0cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e98f05a2a62805",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e55637e82233d4d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "630277e9a877496c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6877bd90614836ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "e90101ff87371b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "360ad605997077d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Schema/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "1444f5c8e5018dc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Schema/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "e5d78a30f0c63814",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b80d85aa60c01dff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Schema/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ea18971d7d76669",
+  "lastOpenFiles": [
+    "Schema/Notes/V1 structure.md",
+    "Schema/README.md",
+    "Schema/Migrations",
+    "PREFS.md",
+    "MIGRATIONS.md",
+    "Schema/CHANGELOG.md",
+    "AVATAR.md",
+    "Games",
+    "README.md",
+    "Schema",
+    "Games/1.1 Vue Mastery",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/faculty/marcus-chen-profile.md",
+    "Schema/Notes/v1 18.27.43/curriculum 18.27.43 18.29.39/phase-1-big-picture/1.1-problem-solution-map/README.md",
+    "Schema/Notes/v1 18.27.43/curriculum 18.27.43 18.29.39/phase-1-big-picture/1.2-reactivity-revolution/README.md",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/logs/var-chronicles.md",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits/tree-walker.md",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits/shell-guardian.md",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits/project-oracle.md",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits/config-keeper.md",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/meta/wordpress-paradigm.md",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/meta/vue-spa-paradigm.md",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/faculty/amira-hassan-profile.md",
+    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/faculty/elena-vasquez-profile.md",
+    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/faculty/marcus-chen-profile.md",
+    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/faculty/river-matsumoto-profile.md",
+    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/environmental-spirits/shell-guardian.md",
+    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/discovery/content-discovery-log.md",
+    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/concepts/vue-reactivity-core.md",
+    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/concepts/symbol-patterns.md",
+    "Schema/Notes/v1 18.27.43/curriculum 18.27.43 18.29.39/phase-1-big-picture/1.2-reactivity-revolution",
+    "Schema/Notes/v1 18.27.43/curriculum 18.27.43 18.29.39/phase-1-big-picture/1.1-problem-solution-map",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/logs",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/meta",
+    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/faculty"
+  ]
+}
