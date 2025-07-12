@@ -1,12 +1,10 @@
-Global instructions:
-- always update Schema/*CHANGELOG*
-- when a paradigm shift occurs tag and version
-- always think of improvements in structure and content and add to *MIGRATIONS*
-- refer to ~/.claude/CLAUDE.md
-- always play a sound when in put is needed
-- don't ask for permission to run shellscript that only affect files $ROOT = ~/Sites/ai/the_game 
-- this game should be applicable across many knowledge domains and exploration, not just programming
-- eventually i'd like to make different game instances interactive
+(Schema)
+[[PREFS]]
+# To do
+- [ ] game instances interactive
+- [ ] strategy for AI compactions and summarization into Schema 
+
+---
 
 7/11/25
 V1
@@ -27,4 +25,6 @@ In this first version I'd like you to create scripts in /Schema/Migrations that 
 	2. prompt for guidance
 3. craft a git commit message
 	
+
+
 

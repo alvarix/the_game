@@ -1,0 +1,10 @@
+feat: implement V1 learning game architecture
+
+- Add complete Games hub with avatar tracking and session management
+- Create Schema system with AI/Human init scripts and data models  
+- Build migration scripts for automated structure deployment
+- Establish Obsidian integration with front matter and wiki-links
+- Support domain-agnostic learning across all knowledge areas
+- Include comprehensive CHANGELOG documentation
+
+Foundation ready for interactive game instances and AI summarization.

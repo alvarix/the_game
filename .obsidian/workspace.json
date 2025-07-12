@@ -6,7 +6,6 @@
       {
         "id": "b43c9d57cff1beed",
         "type": "tabs",
-        "dimension": 36.815693430656935,
         "children": [
           {
             "id": "2a3f8c7725bd2c7d",
@@ -14,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schema/README.md",
+                "file": "Games/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "2728b41ff6df1c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schema/PREFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PREFS"
+            }
+          },
+          {
+            "id": "d1d19c0f229c346e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schema/Variables/Cast/Defaults/Environment/phd-degree-persona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "phd-degree-persona"
+            }
+          },
+          {
+            "id": "709198b6f1c4a73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AVATAR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AVATAR"
             }
           },
           {
@@ -38,44 +79,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "424d14c966428370",
-        "type": "tabs",
-        "dimension": 36.815693430656935,
-        "children": [
-          {
-            "id": "9ea18971d7d76669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schema/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "09fcc3e6ed5a83a7",
-        "type": "tabs",
-        "dimension": 26.368613138686136,
-        "children": [
-          {
-            "id": "4cc078096a069959",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 533.5
   },
   "right": {
     "id": "6877bd90614836ef",
@@ -148,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schema/README.md",
+                "file": "Schema/PREFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for PREFS"
             }
           },
           {
@@ -167,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schema/README.md",
+                "file": "Schema/PREFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from PREFS"
             }
           },
           {
@@ -196,13 +199,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schema/README.md",
+                "file": "Schema/PREFS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of PREFS"
+            }
+          },
+          {
+            "id": "77400f60ada93aad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -219,45 +236,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "9ea18971d7d76669",
+  "active": "2728b41ff6df1c61",
   "lastOpenFiles": [
-    "Schema/Notes/V1 structure.md",
+    "Games/README.md",
+    "Schema/PREFS.md",
     "Schema/README.md",
-    "Schema/Migrations",
-    "PREFS.md",
-    "MIGRATIONS.md",
+    "Schema/Init-Scripts/Human/interactive-initialization.md",
+    "Schema/Init-Scripts/Human/interactive-initialization.md.tmp.50746.1752279683116",
+    "Schema/Migrations/create_games_structure.sh.tmp.50746.1752279616869",
+    "Schema/Init-Scripts/AI/games-generation.md.tmp.50746.1752279605647",
+    "Schema/Analysis/init-scripts-evaluation.md",
+    "Schema/system-defaults.md",
+    "Schema/Init-Scripts/AI/games-generation.md",
+    "Schema/Init-Scripts/Human/games-initialization.md",
+    "Games/Templates/game-instance-template.md",
     "Schema/CHANGELOG.md",
-    "AVATAR.md",
-    "Games",
-    "README.md",
-    "Schema",
-    "Games/1.1 Vue Mastery",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/faculty/marcus-chen-profile.md",
-    "Schema/Notes/v1 18.27.43/curriculum 18.27.43 18.29.39/phase-1-big-picture/1.1-problem-solution-map/README.md",
-    "Schema/Notes/v1 18.27.43/curriculum 18.27.43 18.29.39/phase-1-big-picture/1.2-reactivity-revolution/README.md",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/logs/var-chronicles.md",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits/tree-walker.md",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits/shell-guardian.md",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits/project-oracle.md",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits/config-keeper.md",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/meta/wordpress-paradigm.md",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/meta/vue-spa-paradigm.md",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/faculty/amira-hassan-profile.md",
-    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/faculty/elena-vasquez-profile.md",
-    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/faculty/marcus-chen-profile.md",
-    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/faculty/river-matsumoto-profile.md",
-    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/environmental-spirits/shell-guardian.md",
-    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/discovery/content-discovery-log.md",
-    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/concepts/vue-reactivity-core.md",
-    "Schema/Notes/v2 18.27.43/2.1-the_levels_game/concepts/symbol-patterns.md",
-    "Schema/Notes/v1 18.27.43/curriculum 18.27.43 18.29.39/phase-1-big-picture/1.2-reactivity-revolution",
-    "Schema/Notes/v1 18.27.43/curriculum 18.27.43 18.29.39/phase-1-big-picture/1.1-problem-solution-map",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/logs",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v3/environmental-spirits",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/meta",
-    "Schema/Notes/v2 18.27.43/Mentorship Protocol v2/faculty"
+    "Schema/Variables/Influences/Books.md",
+    "Schema/Variables/Cast/Defaults/Teachers/shell-guardian.md",
+    "Schema/Variables/Cast/Defaults/Spirits/spirits-catalog.md",
+    "Schema/Variables/Cast/Defaults/Teachers/faculty-catalog.md",
+    "Schema/Variables/Cast/Defaults/Teachers/dr-elena-vasquez.md",
+    "Schema/Variables/Cast/Defaults/Environment/phd-degree-persona.md",
+    "Schema/Variables/Goals/learning-objectives.md",
+    "Schema/Paradigms/Templates/paradigm-template.md",
+    "Games/Cast/Session-Environment",
+    "Games/Cast/Current-Spirits",
+    "Games/Cast/Active-Mentors",
+    "Games/Cast",
+    "Schema/Variables/Cast/Defaults/Environments/Weather/weather-catalog.md",
+    "Schema/Variables/Cast/Defaults/Environments/Historical/eras-catalog.md",
+    "Schema/Variables/Cast/Defaults/Environments/Geographic/locations-catalog.md",
+    "Schema/Variables/Cast/Defaults/Environments/Weather",
+    "Schema/Variables/Cast/Defaults/Environments/Historical",
+    "Schema/Variables/Cast/Defaults/Environments/Geographic",
+    "Schema/Variables/Cast/Avatar/core-properties.md",
+    "Schema/Schemas/Variables/Cast/Custom/Untitled.md",
+    "Schema/Init-Scripts/AI/system-guidance.md",
+    "Schema/Schemas/Variables/Cast/Environment/learning-context.md",
+    "AVATAR.md"
   ]
 }

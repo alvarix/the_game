@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(afplay:*)"
+      "Bash(afplay:*)",
+      "Bash(chmod:*)",
+      "Bash(/Users/alvarsirlin/Sites/ai/the_game/Schema/Migrations/create_games_structure.sh)",
+      "Bash(/Users/alvarsirlin/Sites/ai/the_game/Schema/Migrations/create_schema_structure.sh:*)",
+      "Bash(/Users/alvarsirlin/Sites/ai/the_game/Schema/Migrations/create_paradigm_tracking.sh:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": []
   }
