@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schema/PREFS.md",
+                "file": "Schema/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PREFS"
+              "title": "README"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schema/PREFS.md",
+                "file": "Schema/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PREFS"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schema/PREFS.md",
+                "file": "Schema/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PREFS"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schema/PREFS.md",
+                "file": "Schema/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PREFS"
+              "title": "Outline of README"
             }
           },
           {
@@ -244,8 +244,9 @@
   },
   "active": "2728b41ff6df1c61",
   "lastOpenFiles": [
-    "Games/README.md",
     "Schema/PREFS.md",
+    "README.md",
+    "Games/MIGRATIONS.md",
     "Schema/README.md",
     "Schema/Init-Scripts/Human/interactive-initialization.md",
     "Schema/Init-Scripts/Human/interactive-initialization.md.tmp.50746.1752279683116",
@@ -277,8 +278,6 @@
     "Schema/Variables/Cast/Defaults/Environments/Geographic",
     "Schema/Variables/Cast/Avatar/core-properties.md",
     "Schema/Schemas/Variables/Cast/Custom/Untitled.md",
-    "Schema/Init-Scripts/AI/system-guidance.md",
-    "Schema/Schemas/Variables/Cast/Environment/learning-context.md",
-    "AVATAR.md"
+    "Schema/Init-Scripts/AI/system-guidance.md"
   ]
 }

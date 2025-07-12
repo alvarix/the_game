@@ -3,6 +3,7 @@
 # To do
 - [ ] game instances interactive
 - [ ] strategy for AI compactions and summarization into Schema 
+- [ ] post init/schema change tests
 
 ---
 
