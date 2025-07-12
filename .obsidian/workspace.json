@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schema/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schema/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schema/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schema/README.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -244,10 +244,12 @@
   },
   "active": "2728b41ff6df1c61",
   "lastOpenFiles": [
-    "Schema/PREFS.md",
+    "Schema/PLAN.md",
     "README.md",
+    "Schema/Compactions/Sessions/the_game_2025-07-11.md",
+    "Schema/Compactions/Templates/conversation-summary.md",
+    "Schema/PREFS.md",
     "Games/MIGRATIONS.md",
-    "Schema/README.md",
     "Schema/Init-Scripts/Human/interactive-initialization.md",
     "Schema/Init-Scripts/Human/interactive-initialization.md.tmp.50746.1752279683116",
     "Schema/Migrations/create_games_structure.sh.tmp.50746.1752279616869",
@@ -277,7 +279,6 @@
     "Schema/Variables/Cast/Defaults/Environments/Historical",
     "Schema/Variables/Cast/Defaults/Environments/Geographic",
     "Schema/Variables/Cast/Avatar/core-properties.md",
-    "Schema/Schemas/Variables/Cast/Custom/Untitled.md",
-    "Schema/Init-Scripts/AI/system-guidance.md"
+    "Schema/Schemas/Variables/Cast/Custom/Untitled.md"
   ]
 }

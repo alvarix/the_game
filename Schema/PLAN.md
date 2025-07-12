@@ -2,8 +2,11 @@
 [[PREFS]]
 # To do
 - [ ] game instances interactive
-- [ ] strategy for AI compactions and summarization into Schema 
-- [ ] post init/schema change tests
+- [x] strategy for AI compactions and summarization into Schema 
+- [ ] **Tests** post init/schema change
+- [ ] prune unused files/folders
+- [ ] analyze for concepts I dont understand
+- [ ] consider diff
 
 ---
 

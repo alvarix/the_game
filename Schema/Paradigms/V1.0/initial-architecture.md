@@ -44,5 +44,5 @@ Run migration scripts to establish structure. Update AVATAR.md with personal inf
 
 ## Links
 - [[../../CHANGELOG|Full Changelog]]
-- [[../../README|Schema Documentation]]
+- [[PLAN|Schema Documentation]]
 - [[../Templates/paradigm-template|Paradigm Template]]

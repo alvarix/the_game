@@ -39,4 +39,4 @@ Instructions for updating existing instances to new paradigm.
 ## Links
 - [[../V[prev]/|Previous Paradigm]]
 - [[../../CHANGELOG|Full Changelog]]
-- [[../../README|Schema Documentation]]
+- [[PLAN|Schema Documentation]]
